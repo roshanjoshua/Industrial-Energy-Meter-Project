@@ -8,3 +8,6 @@ A 16×2 LCD with an I2C interface is integrated to display real-time electrical 
 The STM32 peripherals utilized include ADC for sensor acquisition, I2C for LCD and RTC communication, SPI for SD card interfacing, UART for debugging and optional serial monitoring, DMA for efficient ADC sampling, and hardware timers for precise sampling intervals and periodic data logging.
 
 Additional firmware features include threshold-based overcurrent and overvoltage detection, configurable alarm limits, sensor calibration, and fault indication using LEDs or a buzzer. The project demonstrates practical implementation of embedded firmware, peripheral interfacing, real-time data acquisition, signal processing, file handling, and industrial electrical monitoring.
+
+
+<img width="1157" height="569" alt="image" src="https://github.com/user-attachments/assets/4bc76d84-f93f-41eb-b143-54f2bfd766fe" />
